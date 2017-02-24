@@ -1,3 +1,7 @@
+# Write a function inverse_graph which takes as its input the
+# adjacency matrix of a graph and returns the adjacency matrix
+# of the inverse graph.
+
 def inverse_graph(graph):
     u = []
     i = len(u)
